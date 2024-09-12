@@ -5,11 +5,15 @@
 h1{
  background: black;
  color: white;
+ text-align: center;
+ width:max-content;
 }
 
 h2{
  background: black;
  color: white;
+ text-align: center;
+ width:max-content;
 }
 
 h3{
