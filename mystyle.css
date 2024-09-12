@@ -2,12 +2,17 @@
   background-image: url("915f85439376e678d0996c0a3b00efdc.jpg");
 }
 
-p{
-  background: grey;
-  width:max-content;
+h1{
+ background: black;
+ color: white;
 }
 
 h3{
   background: white;
   color: green;
+}
+
+p{
+  background: grey;
+  width:max-content;
 }
