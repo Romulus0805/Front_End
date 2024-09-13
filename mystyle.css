@@ -26,4 +26,5 @@ h3{
 p{
   background: grey;
   width:max-content;
+ border-style: solid;
 }
