@@ -24,11 +24,16 @@ h3{
 }
 
 h4{
-background: white;
-width: max-content;
+ background: white;
+ width: max-content;
 }
 
 p{
   background: grey;
   width: max-content;
+}
+
+li{
+ background: white;
+ width: max-content;
 }
